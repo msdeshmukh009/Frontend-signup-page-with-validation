@@ -8,4 +8,10 @@ This is a basic sign-up page for a design website that has four mandatory inputs
 1)HTML  
 2)CSS  
 3)React Js
-
+  
+[Live URL ](https://design-signup.netlify.app/)
+# Preview  
+### Wide screen
+![wide scren view](wide-screen-view.PNG)  
+### small screen   
+![small scren view](small-screen-view.PNG)
